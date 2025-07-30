@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859103717365",
+    "project_id": "civic-report-app",
+    "storage_bucket": "civic-report-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859103717365:android:c0261033dc1c19397122bc",
+        "android_client_info": {
+          "package_name": "com.example.civicreportapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVucjaVYHFmckwmjRN3E0sW8HMI08xHHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
