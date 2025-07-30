@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">CivicReportApp</string>
+    <string-array name="tripura_mlas">
+        <item>Brishaketu Debbarma</item>
+        <item>Ratan Lal Nath</item>
+        <item>Nayan Sarkar</item>
+        <item>Sudip Sarkar</item>
+        <item>Ratan Chakraborty</item>
+        <item>Sudip Roy Barman</item>
+        <item>Dipak Majumder</item>
+        <item>Prof. (Dr.) Manik Saha</item>
+        <item>Gopal Chandra Roy</item>
+        <item>Sushanta Chowdhury</item>
+        <item>Swapna Debbarma</item>
+        <item>Biswajit Kalai</item>
+        <item>Ramu Das</item>
+        <item>Mina Rani Sarkar</item>
+        <item>Antara Sarkar Deb</item>
+        <item>Sushanta Deb</item>
+        <item>Manab Debbarma</item>
+        <item>Ram Prasad Paul</item>
+        <item>Subodh Deb Barma</item>
+        <item>Tafajjal Hossain</item>
+        <item>Kishor Barman</item>
+        <item>Shyamal Chakraborty</item>
+        <item>Bindu Debnath</item>
+        <item>Ranjit Debbarma</item>
+        <item>Nirmal Biswas</item>
+        <item>Animesh Debbarma</item>
+        <item>Pinaki Das Chowdhury</item>
+        <item>Kalyani Saha Roy</item>
+        <item>Bikash Debbarma</item>
+        <item>Ram Pada Jamatia</item>
+        <item>Pranajit Singha Roy</item>
+        <item>Abhishek Debroy</item>
+        <item>Jitendra Majumder</item>
+        <item>Swapna Majumder</item>
+        <item>Dipankar Sen</item>
+        <item>Pramod Reang</item>
+        <item>Asoke Chandra Mitra</item>
+        <item>Sukla Charan Noatia</item>
+        <item>Mailafru Mog</item>
+        <item>Jitendra Chaudhury</item>
+        <item>Pathan Lal Jamatia</item>
+        <item>Ranjit Das</item>
+        <item>Sanjoy Manik Tripura</item>
+        <item>Nandita Debbarma (Reang)</item>
+        <item>Manoj Kanti Deb</item>
+        <item>Swapna Das Paul</item>
+        <item>Chitta Ranjan Debbarma</item>
+        <item>Paul Dangshu</item>
+        <item>Sambhu Lal Chakma</item>
+        <item>Bhagaban Ch. Das</item>
+        <item>Sudhangshu Das</item>
+        <item>Tinku Roy</item>
+        <item>Birajit Sinha</item>
+        <item>Islam Uddin</item>
+        <item>Jadab Lal Debnath</item>
+        <item>Biswabandhu Sen</item>
+        <item>Sailendra Chandra Nath</item>
+        <item>Binay Bhushan Das</item>
+        <item>Santana Chakma</item>
+        <item>Philip Kumar Reang</item>
+        <!-- Add all 60 MLA names -->
+    </string-array>
+</resources>
