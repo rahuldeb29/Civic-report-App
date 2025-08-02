@@ -18,7 +18,7 @@
             android:exported="true">
             <meta-data
                 android:name="com.google.android.geo.API_KEY"
-                android:value="AIzaSyC7FCkVUPMFFIzQeDfynyw6hrEUM9IuWjg" />
+                android:value="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
