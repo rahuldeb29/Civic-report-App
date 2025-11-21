@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#F5F5F5"
+    tools:ignore="ExtraText">
+
+    <!-- App Logo -->
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/ic_email"
+        android:layout_marginBottom="32dp"/>
+
+    <!-- Login Title -->
+    <TextView
+        android:id="@+id/txtLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Log in"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:textColor="#333333"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Email Field -->
+    <EditText
+        android:id="@+id/edtEmail"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:autofillHints="emial"
+        android:background="@drawable/edittext_bg"
+        android:hint="email"
+        android:padding="12dp"
+        tools:ignore="SpeakableTextPresentCheck" />
+    <!-- android:drawableLeft="@drawable/ic_email"
+     android:drawablePadding="10dp"
+     android:inputType="textEmailAddress"
+     android:textColor="#000"
+     android:textColorHint="#888"--> />
+
+    <!-- Password Field -->
+    <EditText
+        android:id="@+id/edtPassword"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Password"
+        android:padding="12dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/edittext_bg"/>
+    <!--android:drawableLeft="@drawable/ic_lock"
+    android:drawablePadding="10dp"
+    android:inputType="textPassword"
+    android:textColor="#000"
+    android:textColorHint="#888"--> />
+
+    <!-- Login Button -->
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Login"
+        android:backgroundTint="#3F51B5"
+        android:textColor="#fff"
+        android:layout_marginTop="24dp" />
+
+    <!-- Signup Link -->
+    <TextView
+        android:id="@+id/txtSignup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Don't have an account? Sign Up"
+        android:textColor="#3F51B5"
+        android:textSize="14sp"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>

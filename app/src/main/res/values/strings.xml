@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">CivicReportApp</string>
+    <string name="todo" />
+    <string name="login" />
+    <string name="email" />
     <string-array name="tripura_mlas">
         <item>Brishaketu Debbarma</item>
         <item>Ratan Lal Nath</item>
